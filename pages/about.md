@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/about.jpeg
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+Welcome to Kerala Club Seattle!
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+We are a registered 501(c)(3) non-profit organization that organizes and supports a variety of cultural, sports, youth, and charity activities for Keralite Americans in the Pacific Northwest. Our primary mission is to promote a healthy lifestyle for Keralite Americans in Seattle and the Northwestern USA by providing a platform to engage in outdoor activities throughout the year.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+At Kerala Club Seattle, we believe that promoting a healthy lifestyle is not just about physical fitness but also about imparting life skills and training to the next generation of young Keralite Americans. We are dedicated to fostering the spirit of sportsmanship and unity among our community members, and we do so by organizing a variety of sports and youth activities throughout the year. Contact us today if you want more information!
