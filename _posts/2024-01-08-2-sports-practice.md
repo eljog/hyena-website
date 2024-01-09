@@ -4,6 +4,7 @@ title:  "Best Sports Club in Redmond"
 author: admin
 categories: [ about ]
 image: assets/images/2.jpg
+featured: true
 ---
 
 Welcome to Kerala Club Seattle! We are a registered 501(c)(3) non-profit organization that organizes and supports a variety of cultural, sports, youth, and charity activities for Keralite Americans in the Pacific Northwest.

@@ -4,6 +4,7 @@ title:  "Our Community"
 author: admin
 categories: [ about ]
 image: assets/images/1.jpg
+featured: true
 ---
 
 Kerala Club organizes and supports Cultural, Sports, Youth & Charity activities for Keralite Americans in the Pacific Northwest. What unites our member community is a shared commitment to promoting a healthy lifestyle, fostering the spirit of sportsmanship and unity, and supporting charitable endeavors that benefit Keralite Americans in the Pacific Northwest.

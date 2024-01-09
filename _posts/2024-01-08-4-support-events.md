@@ -4,6 +4,7 @@ title:  "Support Our Events"
 author: admin
 categories: [ about ]
 image: assets/images/4.jpg
+featured: true
 ---
 
 At Kerala Club Seattle, we are dedicated to organizing and supporting cultural, sports, youth, and charity activities for Keralite Americans in the Pacific Northwest. As a non-profit organization, we rely on the generous support of our sponsors to help us achieve our mission and continue to make a positive impact in the lives of others.
