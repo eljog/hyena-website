@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  "Best Sports Club in Redmond"
+title:  "Increasing Sports Practice in Our Community"
 author: admin
 categories: [ about ]
-image: assets/images/2.jpg
+image: assets/images/pages/practice.jpeg
 featured: true
 ---
 
-Welcome to Kerala Club Seattle! We are a registered 501(c)(3) non-profit organization that organizes and supports a variety of cultural, sports, youth, and charity activities for Keralite Americans in the Pacific Northwest.
+Since our founding on September 15th, 2013, Kerala Club Seattle has been committed to serving the Keralite American community in the Pacific Northwest.
 
-Our primary mission is to promote a healthy lifestyle for Keralite Americans in Seattle and the Northwestern USA by providing a platform to engage in outdoor activities throughout the year. At Kerala Club Seattle, we believe that promoting a healthy lifestyle is not just about physical fitness but also about imparting life skills and training to the next generation of young Keralite Americans.
+We are proud to have built a strong network of members and volunteers who are passionate about promoting our cultural heritage and supporting our community through charitable endeavors. As a non-profit organization, Kerala Club Seattle relies on the generosity of our members and donors to support our activities and events.
 
-We are dedicated to fostering the spirit of sportsmanship and unity among our community members, and we do so by organizing a variety of sports and youth activities throughout the year.
-
-Contact us today if you want more information!
+We are committed to maintaining transparency and accountability in all our financial transactions, and we are dedicated to using our resources to make a positive impact in the lives of Keralite Americans in the Pacific Northwest.

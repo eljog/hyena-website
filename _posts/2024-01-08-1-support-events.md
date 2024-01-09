@@ -3,7 +3,7 @@ layout: post
 title:  "Support Our Events"
 author: admin
 categories: [ about ]
-image: assets/images/4.jpg
+image: assets/images/pages/support.jpeg
 featured: true
 ---
 
