@@ -1,6 +1,6 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
-timezone: UTC
+title: "Kerala Club Seattle"
+email: keralaclub20@gmail.com
+timezone: PST
 baseurl: "/kcs"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
@@ -40,12 +40,20 @@ authors:
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  admin:
+    name: Admin
+    display_name: Admin
+    avatar: 'assets/images/john.png'
+    email: keralaclub20@gmail.com
+    web: https://www.keralaclubseattle.org/
+    twitter: https://twitter.com/
+    description: "Admin of Kerala Club Seattle."
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com//
+  facebook: https://www.facebook.com/
+  twitter: https://twitter.com/
 
 # Plugins
 plugins: 
