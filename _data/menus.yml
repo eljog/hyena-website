@@ -14,7 +14,7 @@ topmenu:
   url: categories/#cricket
 
 - title: The Team  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+  url: "team/"
   class: "ml-2 btn btn-dark text-white px-3"
 
 # - title: Get this theme  
