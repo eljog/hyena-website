@@ -3,7 +3,7 @@ layout: post
 title:  "Our Community"
 author: admin
 categories: [ about ]
-image: assets/images/1.jpg
+image: assets/images/5.jpg
 featured: true
 ---
 

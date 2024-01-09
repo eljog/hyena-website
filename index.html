@@ -16,7 +16,7 @@ background: '/img/bg-index.jpg'
     </div>
     <div class="col-md-6 text-right pl-0 pl-lg-4">
       <!-- <img class="intro" height="500" src="{{site.baseurl}}/assets/images/intro.svg">       -->
-      <img class="intro" height="150" src="{{site.baseurl}}/assets/images/logo.png">      
+      <img class="intro" height="500" src="{{site.baseurl}}/assets/images/logo.png">      
     </div>
   </div>
 </div>
@@ -34,6 +34,10 @@ background: '/img/bg-index.jpg'
   {% endfor %}
   </div>
 </section>
+
+<div class="col-sm-4">
+  {% include sidebar.html %}
+</div>
 
 <!-- Posts List with Sidebar (except featured)
 ================================================== -->
@@ -54,8 +58,5 @@ background: '/img/bg-index.jpg'
           {% include pagination.html %}
       </span>
     </div>
-  </div>
-  <div class="col-sm-4">
-    {% include sidebar.html %}
   </div>
 </section>
