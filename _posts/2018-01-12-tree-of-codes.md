@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tree of Codes"
-author: sal
+author: admin
 categories: [ Projects ]
 image: assets/images/2.jpeg
 ---

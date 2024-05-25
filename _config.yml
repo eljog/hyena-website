@@ -24,6 +24,14 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
+  admin:
+    name: Admin
+    display_name: Admin
+    avatar: 'assets/images/sal.png'
+    email: hyenarealty@hotmail.com
+    web: https://hynearealty.com
+    twitter: https://www.facebook.com/hyenarealty
+    description: "Hyena Realty - Admin"
   sal:
     name: Sal
     display_name: Sal

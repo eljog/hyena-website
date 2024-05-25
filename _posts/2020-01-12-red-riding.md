@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Red Riding Hood"
-author: sal
+author: admin
 categories: [ Projects ]
 image: assets/images/3.jpeg
 ---

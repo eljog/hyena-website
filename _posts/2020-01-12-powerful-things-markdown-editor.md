@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Powerful things you can do with the Markdown editor"
-author: sal
+author: admin
 categories: [ ]
 image: assets/images/4.jpeg
 ---

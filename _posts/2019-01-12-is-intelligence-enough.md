@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is Intelligence Enough"
-author: sal
+author: admin
 categories: [ ]
 image: assets/images/5.jpeg
 ---
