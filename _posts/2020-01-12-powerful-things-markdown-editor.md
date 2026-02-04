@@ -3,7 +3,7 @@ layout: post
 title:  "Powerful things"
 author: admin
 categories: [ ]
-image: assets/images/4.jpeg
+image: assets/images/website.jpeg
 ---
 There are lots of powerful things you can do with the Markdown editor
 
