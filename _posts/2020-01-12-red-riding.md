@@ -3,7 +3,7 @@ layout: post
 title:  "Now It’s Your TIME! Build Your Dream Home for Just Rs. 200/SFT"
 author: admin
 categories: [ Projects ]
-image: assets/images/3.jpeg
+image: assets/images/3.png
 ---
 At **Hyena Realty**, we believe that premium architectural design shouldn't be a distant dream—it should be your reality. Whether you are envisioning a sprawling multi-level villa with modern stone aesthetics or a sleek, minimalist interior, we are here to bridge the gap between imagination and inhabitancy.
 
