@@ -1,0 +1,4 @@
+const wa = "";
+function sendOnWhatsapp() {
+
+}
