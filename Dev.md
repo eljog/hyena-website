@@ -236,6 +236,8 @@ Use `backticks` for inline code or special formatting
 
 ### Task 1: Publish a New Property Listing
 
+**Filename:** `2026-02-04-downtown-home-listing.md`
+
 ```markdown
 ---
 layout: post
@@ -269,6 +271,8 @@ This beautifully renovated home is located in the heart of downtown.
 ```
 
 ### Task 2: Post a Blog Article with Tips
+
+**Filename:** `2026-02-04-home-staging-tips.md`
 
 ```markdown
 ---
@@ -308,6 +312,8 @@ Need help staging your home? We're here to help!
 
 ### Task 3: Announce an Event or Open House
 
+**Filename:** `2026-02-04-open-house-oak-street.md` (use today's date to publish immediately)
+
 ```markdown
 ---
 layout: post
@@ -317,7 +323,7 @@ categories: [ Events, Open House ]
 image: assets/images/oak-street-home.jpg
 ---
 
-Join us this **Sunday, February 10th from 2:00 PM to 4:00 PM** for an open house!
+Join us this **Sunday, February 9th from 2:00 PM to 4:00 PM** for an open house!
 
 **Address:** 123 Oak Street, Springfield
 
